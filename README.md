@@ -37,21 +37,20 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 # Login
+![login yowl](https://user-images.githubusercontent.com/98088041/229526409-94142af5-3211-408c-a4f5-dbab51b3f026.jpg)
 
-![YOWL Prototipe (1)_page-0003](https://user-images.githubusercontent.com/98088041/229522115-92b29edc-f44a-4317-9b13-f3641b9395fb.jpg)
+
 
 # Search bar
 
-![YOWL Prototipe (1)_page-0006](https://user-images.githubusercontent.com/98088041/229522475-15a43b54-7969-4e6b-ad81-862491224383.jpg)
+![search yoawl](https://user-images.githubusercontent.com/98088041/229526441-d2e42c00-c681-4b0a-9ed9-49c899fafc54.jpg)
 
 
 # User Profile and publications
 
-![YOWL Prototipe (1)_page-0010](https://user-images.githubusercontent.com/98088041/229522705-d0a6466b-170e-4abf-9024-65b99c6dfc38.jpg)
+![profil yowl](https://user-images.githubusercontent.com/98088041/229526491-8d6a465b-dba3-4c27-99d6-cd6aefaf4e7c.jpg)
 
-# Comments 
 
-![YOWL Prototipe (1)_page-0011](https://user-images.githubusercontent.com/98088041/229522834-eb923e0c-20dd-4e6f-871a-02dada5c8b20.jpg)
 
 
 
